@@ -499,8 +499,8 @@ Role: NK cell RNA-seq, GSEA, pathway enrichment
 ![Followers](https://img.shields.io/github/followers/ACTN3Bioinformatics?style=flat-square&logo=github&label=Followers)
 
 ---
-https://github.com/ACTN3Bioinformatics/.github/tree/main/profile
-<img src="https://raw.githubusercontent.com/ACTN3Bioinformatics/.github/tree/main/assets/actn3-banner.png" alt="ACTN3 Bioinformatics" width="100%">
+
+<img src="https://github.com/ACTN3Bioinformatics/.github/blob/main/assets/actn3-banner.png" alt="ACTN3 Bioinformatics" width="70%">
 
 **⚡ ACTN3 Bioinformatics** - Where Speed Meets Science
 
