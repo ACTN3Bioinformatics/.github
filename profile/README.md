@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ ACTN3 Bioinformatics
+<!-- # ⚡ ACTN3 Bioinformatics -->
+
+<img src="https://github.com/ACTN3Bioinformatics/.github/blob/main/assets/actn3-banner.png" alt="ACTN3 Bioinformatics" width="50%">
 
 ### Fast, Efficient, High-Performance Genomic Solutions
 
