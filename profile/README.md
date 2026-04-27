@@ -87,6 +87,8 @@ A comprehensive, end-to-end **bioinformatics architecture template** for nationa
 
 **Technologies:** Nextflow · nf-core/sarek · Hail VDS · DeepVariant · GLnexus · GATK-SV · Sniffles2 · SHAPEIT5 · Truvari · VEP · GDI Starter Kit · Phenopackets v2 · VRS v2 · Crypt4GH
 
+---
+
 ### 🧪 [VCC 2025: ML-Ready Perturb-seq Pipeline](https://github.com/ACTN3Bioinformatics/VCC-project)
 
 **Production-grade Snakemake pipeline transforming scRNA-seq CRISPR screens into balanced, harmonized datasets for AI/ML training**
