@@ -60,6 +60,33 @@ Accelerate drug discovery and precision medicine by providing:
 
 ## 🚀 Featured Projects
 
+### 🧬 [Population-WGS Bioinformatics Architecture](https://github.com/ACTN3Bioinformatics/population-wgs-architecture)
+
+**A reference architecture template for nationwide population whole-genome sequencing programs**
+
+<div align="center">
+
+[![Status: Phase 1](https://img.shields.io/badge/Status-Phase%201%20Architecture-blue?style=flat-square)](https://github.com/ACTN3Bioinformatics/population-wgs-architecture)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/ACTN3Bioinformatics/population-wgs-architecture/blob/main/LICENSE)
+[![Standards: GA4GH](https://img.shields.io/badge/Standards-GA4GH-2E8B57?style=flat-square)](https://www.ga4gh.org/)
+[![Principles: FAIR](https://img.shields.io/badge/Principles-FAIR-brightgreen?style=flat-square)](https://www.go-fair.org/fair-principles/)
+
+[🌐 Repository](https://github.com/ACTN3Bioinformatics/population-wgs-architecture)
+
+</div>
+
+A comprehensive, end-to-end **bioinformatics architecture template** for national population WGS programs at the 5–10 K cohort scale (G4PL-class projects). Synthesizes lessons from gnomAD v4, UK Biobank, FinnGen, Genomic Medicine Sweden, HPRC, the GDI Starter Kit, and the GA4GH standards stack into a deployable reference design — published as an independent educational resource for research groups and consortia.
+
+**Key features:**
+- 🧬 Multi-platform integration: Illumina short-read · PacBio HiFi · Oxford Nanopore · Bionano OGM
+- 🔬 Six-channel per-sample variant calling: SNV/indel · SV · repeats · HLA · PGx · mtDNA
+- 📊 Cohort-scale joint analysis: GLnexus / Hail VDS · SHAPEIT5 phasing · gnomAD-aligned QC
+- 🌍 Population genetics: PCA · ADMIXTURE · FST · IBD · LD · ROH · haplogroups
+- 🔐 GA4GH-compliant federated access: Beacon v2 · htsget · DRS · Crypt4GH · DUO
+- 📚 Seven phased documentation modules + comprehensive Phase 1 architecture document
+
+**Technologies:** Nextflow · nf-core/sarek · Hail VDS · DeepVariant · GLnexus · GATK-SV · Sniffles2 · SHAPEIT5 · Truvari · VEP · GDI Starter Kit · Phenopackets v2 · VRS v2 · Crypt4GH
+
 ### 🧪 [VCC 2025: ML-Ready Perturb-seq Pipeline](https://github.com/ACTN3Bioinformatics/VCC-project)
 
 **Production-grade Snakemake pipeline transforming scRNA-seq CRISPR screens into balanced, harmonized datasets for AI/ML training**
